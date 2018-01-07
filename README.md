@@ -1,5 +1,5 @@
 # My Reads 
-My Reads is a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library which will persist information as you interact with the application.
+My Reads is a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes on using React to build the application and provides an API server and client library which will persist information as you interact with the application.
 
 
 ## How to Run
